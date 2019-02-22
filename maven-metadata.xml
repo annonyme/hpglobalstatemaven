@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>hp-globalstate</groupId>
+  <artifactId>hp-globalstate-core</artifactId>
+  <versioning>
+    <versions>
+      <version>0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20190222134333</lastUpdated>
+  </versioning>
+</metadata>
