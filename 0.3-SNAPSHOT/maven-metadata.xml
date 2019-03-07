@@ -2,23 +2,23 @@
 <metadata modelVersion="1.1.0">
   <groupId>hp-globalstate</groupId>
   <artifactId>hp-globalstate-core</artifactId>
-  <version>0.1-SNAPSHOT</version>
+  <version>0.3-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20190209.141238</timestamp>
+      <timestamp>20190307.184516</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
-    <lastUpdated>20190209141238</lastUpdated>
+    <lastUpdated>20190307184516</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>0.1-20190209.141238-1</value>
-        <updated>20190209141238</updated>
+        <value>0.3-20190307.184516-1</value>
+        <updated>20190307184516</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>0.1-20190209.141238-1</value>
-        <updated>20190209141238</updated>
+        <value>0.3-20190307.184516-1</value>
+        <updated>20190307184516</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
